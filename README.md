@@ -1,124 +1,76 @@
-# 👋 Hi, I'm Divyanshu Sharma  
+<!-- ================= ULTRA HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F7FF,100:0066FF&height=250&section=header&text=Divyanshu%20Sharma&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
 
-🚀 Full Stack Developer | AI Enthusiast | Backend Engineer  
+<!-- ================= ANIMATED NAME ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Divyanshu+Sharma;Full+Stack+Developer;AI+Engineer;Backend+Specialist;Building+Scalable+Systems;Turning+Ideas+into+Products" />
+</p>
+
+<!-- ================= MATRIX GIF ================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+</p>
+
+<!-- ================= VISITOR COUNTER ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyanshu-sharma28&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
+
+<!-- ================= TAGLINE ================= -->
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 AI Engineer | ⚙️ Backend Specialist
+</h3>
 
 ---
 
 ## 🧠 About Me  
 
-- 🎓 B.Tech CSE (AI) @ PSIT, Kanpur  
-- 💻 Passionate about building **scalable full-stack applications**  
-- ⚡ Strong in **backend systems, APIs, and real-world problem solving**  
-- 🤖 Exploring **AI-powered systems & developer tools**  
+```diff
++ B.Tech CSE (AI) @ PSIT, Kanpur
++ Building scalable full-stack applications
++ Strong in backend architecture & APIs
++ Exploring AI, automation & system design
++ Focused on real-world problem solving
+🚀 Projects
+🔹 VibeCode Editor
 
----
+💡 AI-powered Web IDE with real-time execution
+⚡ WebContainers + Monaco + AI completion
 
-## 🚀 Projects  
+🔹 TaskFlow
 
-### 🔹 VibeCode Editor (AI Web IDE)  
-- Built a **browser-based full-stack IDE** with real-time execution  
-- Integrated **WebContainers** to run Node.js in-browser  
-- Added **AI code completion (Ollama)** for smart suggestions  
-- Implemented terminal, file explorer, and preview system  
-- Tech: `Next.js` `TypeScript` `WebContainers` `Monaco Editor` `MongoDB`
+📊 Role-Based Task Management System
+🔐 Clerk Auth + PostgreSQL + Prisma
 
----
+🔹 Bank Transaction System
 
-### 🔹 TaskFlow (RBAC Task Management System)  
-- Role-Based Access Control system with secure user permissions  
-- Integrated **Clerk authentication + webhook syncing**  
-- Built admin dashboard + subscription-based features  
-- Used Prisma ORM with PostgreSQL for optimized queries  
-- Tech: `Next.js` `Prisma` `PostgreSQL` `Clerk` `Tailwind`
+🏦 Secure backend with JWT authentication
+⚡ REST APIs + scalable architecture
 
----
+🔹 Truthify AI
 
-### 🔹 Bank Transaction System (Backend)  
-- Developed backend for **secure banking operations**  
-- Implemented **JWT authentication**  
-- Designed REST APIs for transfers & transaction history  
-- Ensured data integrity and concurrency handling  
-- Tech: `Node.js` `Express.js` `MongoDB` `JWT`
+🧠 Misinformation Detection System
+📊 Risk scoring + AI explanation engine
 
----
+🔹 CivicAssist
 
-### 🔹 Truthify AI (Misinformation Detection System)  
-- AI-based system to detect misinformation & assign risk score  
-- Uses LLM for **analysis, verification & explanation**  
-- Built with scalable architecture for real-time detection  
-- Tech: `React` `FastAPI` `OpenAI` `LangChain`
+🏛️ AI-powered Government Assistant
+📄 Scheme eligibility + complaint generator
 
----
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,express,fastapi,mongodb,postgres,docker,git,github,postman,vscode" /> </p> <p align="center"> <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai" /> <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge" /> </p>
+⚡ GitHub Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu-sharma28&theme=tokyo-night" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-sharma28&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-sharma28&theme=tokyonight" /> </p>
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=divyanshu-sharma28&theme=radical&margin-w=10&margin-h=10" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="mailto:sharmadivyanshu117@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://linkedin.com/in/ds2809"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/divyanshu-sharma28"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
+⚡ Fun Fact
 
-### 🔹 CivicAssist (CivicTech Platform)  
-- Personal government assistant for scheme eligibility  
-- AI-powered explanation + complaint generator  
-- Helps users discover benefits & required documents  
-- Tech: `Next.js` `Node.js` `PostgreSQL` `OpenAI`
+💡 I don’t just write code — I build systems that scale into startups 🚀
 
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)  
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)  
-
----
-
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)  
-
----
-
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)  
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)  
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)  
-
----
-
-### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)  
-
----
-
-### 🤖 AI / Tools  
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)  
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)  
-![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge)  
-
----
-
-### ☁️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)  
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)  
-![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshu-sharma28&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-sharma28&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me  
-
-- 📧 Email: sharmadivyanshu117@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/ds2809  
-- 🧑‍💻 GitHub: https://github.com/divyanshu-sharma28  
-- 🧠 LeetCode: https://leetcode.com/divyanshu28  
-
----
-
-## ⚡ Fun Fact  
-I build systems that **solve real-world problems and scale into products 🚀**
+<!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F7FF,100:0066FF&height=120&section=footer"/> </p> ```
